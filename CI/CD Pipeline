@@ -1,0 +1,7 @@
+CI/CD Pipelines: Automated workflows for building, testing, and deploying code. Continuous Integration
+(CI) merges and tests code changes, while Continuous Deployment (CD) automates releases to production.
+Importance: They streamline development, catch errors early, and ensure fast, reliable deployment of 
+features like user management and booking systems, enhancing scalability and collaboration.
+Tools: GitHub Actions (automates workflows), Docker (ensures consistent environments), Jenkins 
+(orchestrates pipelines), CircleCI (fast CI/CD integration).
+
