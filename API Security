@@ -1,0 +1,9 @@
+Key Security MeasuresAuthentication: Verifies users with OAuth/JWT or encrypted passwords. Ensures only valid users access the platform.
+Authorization: Restricts actions by role (host/guest) via RBAC. Prevents unauthorized access to features.
+Rate Limiting: Caps API requests to block abuse. Maintains system performance.
+
+Why Security is CrucialUser Data: Authentication/authorization protect sensitive info, ensuring privacy.
+Payments: Encryption prevents fraud, securing transactions.
+Booking System: Rate limiting/authorization ensure fair, reliable bookings.
+Property Management: Authorization prevents unauthorized listing changes.
+
