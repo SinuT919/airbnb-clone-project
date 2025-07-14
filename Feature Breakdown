@@ -1,0 +1,8 @@
+User Management: Handles user registration and authentication. Ensures secure access and role-based functionality for hosts and guests.
+Property Management: Enables hosts to create and update property listings. Powers the platform’s core offering of bookable accommodations.
+Booking System: Manages reservations and availability checks. Facilitates seamless booking for guests.
+Reviews: Allows guests to rate and review properties. Builds trust through transparent feedback.
+Payments: Processes secure booking transactions. Ensures reliable financial operations.
+API Security: Implements authentication and rate limiting. Protects data and ensures platform security.
+CI/CD Pipeline: Automates code testing and deployment. Enhances development efficiency and scalability.
+
