@@ -1,0 +1,8 @@
+Django: A Python web framework used to build scalable backend systems and RESTful APIs, enabling features like user management, property management, and booking systems.
+PostgreSQL: A relational database management system for storing and managing structured data, such as user profiles, properties, bookings, reviews, and payments.
+GraphQL: A query language for APIs that allows efficient, flexible data retrieval, enabling clients to request specific data for listings, bookings, or reviews in a single request.
+GitHub: A platform for version control and collaborative repository management, used to initialize, structure, and manage the project’s codebase.
+Docker: A containerization tool that ensures consistent application environments across development, testing, and production for reliable deployment.
+GitHub Actions: A CI/CD tool for automating workflows, such as building, testing, and deploying code, to streamline development and minimize errors.
+MySQL: A relational database system (noted as an alternative to PostgreSQL) for managing structured data, though PostgreSQL is preferred in this project.
+
