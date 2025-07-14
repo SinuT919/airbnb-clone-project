@@ -1,0 +1,8 @@
+Backend Developer: Builds server-side logic and APIs using Django and GraphQL, integrates with
+PostgreSQL, implements security (authentication/authorization), and sets up CI/CD pipelines with tools
+like GitHub Actions or Docker.
+Database Administrator (DBA): Manages PostgreSQL database, ensuring performance, security, and scalability for user, property, and
+booking data, with tasks like backups, optimization, and collaboration with developers.
+
+
+
