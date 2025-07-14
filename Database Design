@@ -1,0 +1,14 @@
+Key Entities and FieldsUsers: user_id, email, password, name, role
+Properties: property_id, title, description, location, price, host_id
+Bookings: booking_id, property_id, guest_id, check_in, check_out
+Reviews: review_id, booking_id, property_id, guest_id, rating
+Payments: payment_id, booking_id, guest_id, amount, status
+
+RelationshipsUsers-Properties: One user (host) has many properties; one property has one host.
+Properties-Bookings: One property has many bookings; one booking has one property.
+Users-Bookings: One user (guest) has many bookings; one booking has one guest.
+Bookings-Reviews: One booking has one review; one review has one booking.
+Properties-Reviews: One property has many reviews; one review has one property.
+Bookings-Payments: One booking has one payment; one payment has one booking.
+Users-Payments: One user (guest) has many payments; one payment has one guest.
+
